@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Soumyajit 👋
 
-<!--
-**Soumyajit-2808/soumyajit-2808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+🎓 Computer Science Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning backend development by building projects from scratch.
+
+My focus is on understanding how backend systems work rather than just completing tutorials.
+
+---
+
+## Currently Learning
+
+- JavaScript
+- Node.js
+- Express.js
+- Git & GitHub
+
+---
+
+## Current Projects
+
+- Todo API
+- Motivation API
+
+---
+
+## Goals
+
+- Build production-quality backend projects
+- Learn databases, Docker and cloud technologies
+- Become a Backend Software Engineer
+
+---
+
+## GitHub Stats
+
+Most of my repositories represent projects from my Backend Engineering Journey, where I build real applications while learning new concepts.
